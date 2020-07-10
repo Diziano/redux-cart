@@ -1,0 +1,84 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Amplificador",
+      "price": 5761.00,
+      "image": "https://user-images.githubusercontent.com/948514/87052837-a47ce780-c1d7-11ea-8d51-20d78b31101d.png"
+    },
+    {
+      "id": 2,
+      "title": "Bateria",
+      "price": 2999.90,
+      "image": "https://user-images.githubusercontent.com/948514/87052849-a777d800-c1d7-11ea-8b6a-4f638d4a22d5.png"
+    },
+    {
+      "id": 3,
+      "title": "Bicicleta",
+      "price": 1178.99,
+      "image": "https://user-images.githubusercontent.com/948514/87052855-a8a90500-c1d7-11ea-8cf0-b66f27165f16.png"
+    },
+    {
+      "id": 4,
+      "title": "Caixa de som",
+      "price": 213.73,
+      "image": "https://user-images.githubusercontent.com/948514/87052858-a9419b80-c1d7-11ea-84b9-18576a6541d4.png"
+    },
+    {
+      "id": 5,
+      "title": "Cubo mágico",
+      "price": 34.70,
+      "image": "https://user-images.githubusercontent.com/948514/87052863-aa72c880-c1d7-11ea-829d-739bd19f5e11.png"
+    },
+    {
+      "id": 6,
+      "title": "Fone",
+      "price": 234.90,
+      "image": "https://user-images.githubusercontent.com/948514/87052866-ab0b5f00-c1d7-11ea-80c5-b60f69d655ff.png"
+    },
+    {
+      "id": 7,
+      "title": "iPhone",
+      "price": 3699.00,
+      "image": "https://user-images.githubusercontent.com/948514/87052868-aba3f580-c1d7-11ea-95e0-a92b13cf34d6.png"
+    },
+    {
+      "id": 8,
+      "title": "Macbook",
+      "price": 12499.99,
+      "image": "https://user-images.githubusercontent.com/948514/87052869-aba3f580-c1d7-11ea-9773-6855e4e6e4d1.png"
+    },
+    {
+      "id": 9,
+      "title": "Mi Band",
+      "price": 199,
+      "image": "https://user-images.githubusercontent.com/948514/87052871-ac3c8c00-c1d7-11ea-9dce-ec79853789a8.png"
+    }
+  ]
+}
