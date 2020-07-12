@@ -80,6 +80,12 @@ export const ProductTable = styled.table`
     border: 0;
     background: none;
   }
+
+  td.empty {
+    color: #666;
+    font-size: 16px;
+    text-align: center;
+  }
 `;
 
 export const Total = styled.div`
