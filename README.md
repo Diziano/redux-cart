@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="redux-cart" title="redux-cart" src=".github/logo.svg" width="250px" />
+</h1>
+
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
