@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img alt="redux-cart" title="redux-cart" src=".github/logo.svg" width="250px" />
+  <img alt="redux-cart" title="redux-cart" src=".github/logo.svg" width="300px" />
+  <br/>
+  <br/>
 </h1>
 
 <p align="center">
